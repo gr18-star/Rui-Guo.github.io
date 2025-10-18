@@ -23,7 +23,7 @@ repository               : "RuiGuoReos/RuiGuoReos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rui-guo-PNG"
   name             : "Rui Guo (Reos)"
   pronouns         : "he/him"  
   bio              : "Ph.D. student in Bioengineering at UCLA. Researching bioelectronics."
